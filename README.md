@@ -1,7 +1,3 @@
-### Hi there 👋
-
-
-
 ![kimwlsgh33 GitHub Stats](https://server.dooboo.io/github-stats-advanced/kimwlsgh33)
 
 ![kimwlsgh33 GitHub Trophies](https://server.dooboo.io/github-trophies/kimwlsgh33)
