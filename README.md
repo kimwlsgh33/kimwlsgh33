@@ -1,4 +1,4 @@
-[![kimwlsgh33's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimwlsgh33)](https://github.com/kimwlsgh33/kimwlsgh33)
+[![kimwlsgh33's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimwlsgh33&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/kimwlsgh33/kimwlsgh33)
 
 ![kimwlsgh33 GitHub Trophies](https://server.dooboo.io/github-trophies/kimwlsgh33)
 
