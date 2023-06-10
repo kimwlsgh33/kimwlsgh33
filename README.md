@@ -1,4 +1,6 @@
-[![kimwlsgh33's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimwlsgh33&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/kimwlsgh33/kimwlsgh33)
+THIS REPO IS DEPRECATED.
+
+I MOVE [HERE](https://gitlab.com/logosevens).
 
 <!--
 **kimwlsgh33/kimwlsgh33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
